@@ -1,0 +1,5 @@
+google-adk[database]==1.4.2
+python-dotenv==1.1.0
+
+
+

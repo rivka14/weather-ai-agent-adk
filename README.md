@@ -1,1 +1,1 @@
-# plant-care-ai-agent
+# weather-ai-agent-adk
